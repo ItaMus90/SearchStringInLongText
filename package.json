@@ -1,0 +1,14 @@
+{
+  "name": "searchstringintext",
+  "version": "1.0.0",
+  "description": "search string in long text",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ItaMus90",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
